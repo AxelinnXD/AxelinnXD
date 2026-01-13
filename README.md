@@ -5,6 +5,7 @@ Here are some ideas to get you started:
 - I’m currently working on:
     - ROCK / STONE ( POCO M5 )
     - A226B / A226BR ( SAMSUNG A22 5G )
+    - REALME 5s (r5x)
 - I’m currently learning android 
 - I'M No0b"
  
